@@ -12,7 +12,7 @@
                     target: $refs.tinymce,
                     deprecation_warnings: false,
                     language: '{{ $getInterfaceLanguage() }}',
-                    language_url: 'https://cdn.jsdelivr.net/npm/tinymce-i18n@23.7.24/langs5/{{ $getInterfaceLanguage() }}.min.js',
+                    language_url: 'https://gcore.jsdelivr.net/npm/tinymce-i18n@23.7.24/langs5/{{ $getInterfaceLanguage() }}.min.js',
                     toolbar_sticky: {{ $getToolbarSticky() ? 'true' : 'false' }},
                     toolbar_sticky_offset: 64,
                     skin: {
