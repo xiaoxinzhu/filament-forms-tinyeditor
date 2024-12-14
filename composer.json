@@ -1,5 +1,5 @@
 {
-    "name": "mohamedsabil83/filament-forms-tinyeditor",
+    "name": "xiaoxinzhu/filament-forms-tinyeditor",
     "description": "A TinyMce editor component for Filament",
     "keywords": [
         "laravel",
@@ -8,12 +8,12 @@
         "tinyeditor",
         "tinymce"
     ],
-    "homepage": "https://github.com/mohamedsabil83/filament-forms-tinyeditor",
+    "homepage": "https://github.com/xiaoxinzhu/filament-forms-tinyeditor",
     "license": "MIT",
     "authors": [
         {
-            "name": "MohamedSabil83",
-            "email": "me@mohamedsabil83.com",
+            "name": "xiaoxinzhu",
+            "email": "xiaoxinzhu@gmail.com",
             "role": "Developer"
         }
     ],
